@@ -1,0 +1,178 @@
+body {
+
+}
+
+.col-xs-4 {
+	position: unset;
+}
+
+.container {
+	padding: 150px;
+    
+}
+.navbar-default.navbar {
+	position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar-brand > img {
+  height: 20px;
+}
+
+.header {
+	background-image: url(../images/bg2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 52px;
+}
+
+.titulo, .parrafo_header {
+	color: #fff;
+	text-align: center;
+}
+
+.titulo {
+	font-size: 1.8em;
+	font-weight: bold;
+
+}
+
+.btn_centro	{
+	padding-top: 10px; 
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.row {
+  margin: 0;
+  padding-right:25px;
+  padding-left:25px;
+  margin-top: 2%;
+
+}
+
+
+
+.container_img {
+  background-size: 100%;
+  border-radius: 10px;
+  border: 8px solid #D4D2D2;
+  background-repeat: no-repeat;
+
+}
+
+h4 {
+	text-align: center;
+}
+
+.cuadro_blanco_info {
+	background-color: #fff;
+	z-index: 10;
+	
+
+	
+}
+
+.img1 {
+	 background-image: url("../images/1.jpg");
+	 padding-top: 50%;
+	 
+}
+
+.img2 {
+	 background-image: url("../images/2.jpg");
+	 padding-top: 50%;
+	 
+}
+
+
+.img3 {
+	 background-image: url("../images/3.jpg");
+	 padding-top: 50%;
+	 
+}
+
+.img4 {
+	 background-image: url("../images/4.jpg");
+	 padding-top: 50%;
+	 
+}
+
+.img5 {
+	 background-image: url("../images/5.jpg");
+	 padding-top: 50%;
+	 
+}
+
+
+.img6 {
+	 background-image: url("../images/6.jpg");
+	 padding-top: 50%;
+	 
+}
+
+.img7 {
+	 background-image: url("../images/7.jpg");
+	 padding-top: 50%;
+	 
+}
+
+.img8 {
+	 background-image: url("../images/8.jpg");
+	 padding-top: 50%;
+	 
+}
+
+
+.img9 {
+	 background-image: url("../images/9.jpg");
+	 padding-top: 50%;
+	 
+}
+
+p {
+	text-align: center;
+}
+
+.row_camera {
+
+  text-align: center;
+  margin: 0;
+  padding-right:25px;
+  padding-left:25px;
+  margin-top: 2%;
+  font-size: 1.2em;
+}
+
+.cuadro_footer {
+	background-color: #E0DEDE;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	margin: 1em 0em 1em 0em;
+	padding-top: 10px;
+}
+
+
+@media only screen and (max-width: 580px) {
+
+.col-xs-4 {
+	width: 100%;
+	margin-top: 2em;
+}
+
+h4 {
+	font-size: 1em;
+}
+
+p {
+	font-size: 0.7em;
+}
+
+.btn_centro {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+}
